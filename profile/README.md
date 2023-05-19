@@ -1,4 +1,4 @@
-![screenshot](https://cdn.rphlo.com/routechoices-screenshot.png?t=20220915)
+![screenshot](https://cdn.rphlo.com/routechoices-screenshot.png?t=20230519)
 
 The Routechoices Github organisation holds the repositories for a complete live GPS tracking solution that is aimed at orienteering clubs and other outdoor sports club for their events.
 
